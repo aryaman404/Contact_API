@@ -1,4 +1,4 @@
-import { User } from "../User.js"; // ✅ Correct
+import { User } from "../User.js";
 import bcrypt from "bcrypt";
 import jwt from "jsonwebtoken";
 
